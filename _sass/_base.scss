@@ -247,15 +247,15 @@ header {
             .project-category,
             .project-name {
                 @include sans-serif-font;
-                padding: 0 15px;
+                padding: 0 12px;
             }
             .project-category {
                 text-transform: uppercase;
                 font-weight: 600;
-                font-size: 13px;
+                font-size: 10px;
             }
             .project-name {
-                font-size: 12px;
+                font-size: 10px;
             }
         }
     }
