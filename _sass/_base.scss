@@ -247,12 +247,12 @@ header {
             .project-category,
             .project-name {
                 @include sans-serif-font;
-                padding: 0 14px;
+                padding: 0 12px;
             }
             .project-category {
                 text-transform: uppercase;
                 font-weight: 600;
-                font-size: 12px;
+                font-size: 14px;
             }
             .project-name {
                 font-size: 12px;
@@ -268,10 +268,10 @@ header {
         .portfolio-box-caption {
             .portfolio-box-caption-content {
                 .project-category {
-                    font-size: 16px;
+                    font-size: 12px;
                 }
                 .project-name {
-                    font-size: 22px;
+                    font-size: 14px;
                 }
             }
         }
