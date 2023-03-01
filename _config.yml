@@ -10,3 +10,6 @@ linkedin_username: docappy
 
 # Build settings
 markdown: kramdown
+
+# Collections
+- docs
