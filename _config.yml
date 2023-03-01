@@ -1,12 +1,12 @@
 # Site settings
-title: Orclida
-email: info@orclida.com
+title: Docappy
+email: info@docappy.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: orclida
-linkedin_username: orclida
+twitter_username: docappy
+linkedin_username: docappy
 
 # Build settings
 markdown: kramdown
